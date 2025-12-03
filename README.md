@@ -8,6 +8,7 @@ Logical supply:
 Bootstrap:
 
 - 10V to 20V
+- 0A to 2A (current peak)
 
 Power supply:
 
