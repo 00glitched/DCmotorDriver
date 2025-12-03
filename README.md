@@ -1,5 +1,5 @@
 # DCmotorDriver
-BDC motor driver based on MOSFET transistors H-bridge
+BDC motor driver based on N-MOSFET transistors H-bridge
 
 Logical supply:
 
